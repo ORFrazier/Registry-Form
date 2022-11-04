@@ -15,6 +15,8 @@ namespace Registry_Form
         public Form2()
         {
             InitializeComponent();
+            //Database Issue figured out! SSMS for the win.
+            
         }
     }
 }
