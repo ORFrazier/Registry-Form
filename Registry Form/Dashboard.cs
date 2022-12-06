@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Registry_Form
 {
-    public partial class Login : Form
+    public partial class Dashboard : Form
     {
-        public Login()
+        public Dashboard()
         {
             InitializeComponent();
         }

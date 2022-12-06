@@ -10,3 +10,6 @@ C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry Form.
 C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry Form.csproj.CoreCompileInputs.cache
 C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry Form.exe
 C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry Form.pdb
+C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry_Form.Dashboard.resources
+C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry_Form.frmLogin.resources
+C:\Users\lonni\source\repos\Registry Form\Registry Form\obj\Debug\Registry_Form.GetStarted.resources
